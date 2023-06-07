@@ -1,2 +1,2 @@
 #!/bin/bash
-cp file.html /path/to/destination/directory`
+./copy_html.sh
